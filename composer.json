@@ -1,5 +1,5 @@
 {
-    "name": "bogardo/mailgun",
+    "name": "tobbykuyinu/mailgun",
     "description": "A laravel 5 wrapper for sending mail via the Mailgun API in Laravel style",
     "type": "laravel-package",
     "license": "MIT",
